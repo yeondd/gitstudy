@@ -1,0 +1,8 @@
+clone: git clone url -> git hub copy -> dowonload to local
+fetch: remote to local. alram crashing.
+pull: fetch. but slove the problem itself.
+push: local to remote
+
+
+git remote origin master
+git remote rm origin -> delete remote
